@@ -13,4 +13,4 @@ Por enquanto, está em fase inicial e ainda não está finalizado.
 ## 🧑‍💻 Tecnologias
 - HTML
 - CSS
--JS
+- JS
